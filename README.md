@@ -8,7 +8,7 @@
 
 ## 安装使用（Installation）
 ```
-$ npm install install hexo-renderer-scss --save
+$ npm install hexo-renderer-scss --save
 $ git clone https://github.com/frostfan/hexo-theme-polarbear themes/polarbear
 ```
 
